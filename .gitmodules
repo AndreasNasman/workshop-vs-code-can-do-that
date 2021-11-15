@@ -1,0 +1,3 @@
+[submodule "exercise-8-git-source-control/start"]
+	path = exercise-8-git-source-control/start
+	url = https://github.com/burkeholland/i-love-lamp.git
